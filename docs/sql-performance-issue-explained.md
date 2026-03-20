@@ -66,6 +66,9 @@ Technical documentation is important during performance investigations because i
 - justify corrective actions
 - maintain traceability for future review
 
+## Why this matters
+
+Slow reports are often treated as isolated issues, but they usually indicate deeper system or data design problems.
 ## Conclusion
 
 SQL performance issues are often multi-factor problems. A structured and evidence-based approach helps ensure that the issue is understood correctly and that improvements are targeted effectively.
