@@ -50,7 +50,9 @@ Examples of useful ERP documentation include:
 - change records
 - validation documents
 - reporting guidance
+## Why this matters
 
+Most people use ERP systems daily without fully understanding how data flows behind the scenes. This overview simplifies that complexity.
 ## Conclusion
 
 ERP systems are not just software platforms. They are operational frameworks that connect multiple business functions. Clear technical documentation is essential to help teams use them effectively and consistently.
