@@ -77,6 +77,10 @@ Strong validation documentation should be:
 - reviewable
 - aligned with procedure and system risk
 
+## Why this matters
+
+Most people use ERP systems daily without fully understanding how data flows behind the scenes. This overview simplifies that complexity.
+
 ## Conclusion
 
 Validation is not a single document or a one-time test activity. It is a structured lifecycle supported by linked documents, evidence, and review steps that demonstrate system control and intended use.
