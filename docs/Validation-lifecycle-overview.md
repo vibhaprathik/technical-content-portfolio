@@ -79,7 +79,7 @@ Strong validation documentation should be:
 
 ## Why this matters
 
-Most people use ERP systems daily without fully understanding how data flows behind the scenes. This overview simplifies that complexity.
+Validation is often seen as documentation-heavy, but it is fundamentally about ensuring systems are reliable, controlled, and fit for purpose.
 
 ## Conclusion
 
